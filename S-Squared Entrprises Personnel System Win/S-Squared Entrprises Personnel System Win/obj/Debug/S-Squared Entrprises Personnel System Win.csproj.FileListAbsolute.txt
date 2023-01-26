@@ -1,0 +1,12 @@
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\bin\Debug\S-Squared Entrprises Personnel System Win.exe.config
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\bin\Debug\S-Squared Entrprises Personnel System Win.exe
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\bin\Debug\S-Squared Entrprises Personnel System Win.pdb
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\obj\Debug\S-Squared Entrprises Personnel System Win.csproj.AssemblyReference.cache
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\obj\Debug\S-Squared Entrprises Personnel System Win.csproj.SuggestedBindingRedirects.cache
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\obj\Debug\S_Squared_Entrprises_Personnel_System_Win.Add_Emp.resources
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\obj\Debug\S_Squared_Entrprises_Personnel_System_Win.Display_frm.resources
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\obj\Debug\S_Squared_Entrprises_Personnel_System_Win.Properties.Resources.resources
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\obj\Debug\S-Squared Entrprises Personnel System Win.csproj.GenerateResource.cache
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\obj\Debug\S-Squared Entrprises Personnel System Win.csproj.CoreCompileInputs.cache
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\obj\Debug\S-Squared Entrprises Personnel System Win.exe
+C:\Users\swapn\source\repos\S-Squared Entrprises Personnel System Win\S-Squared Entrprises Personnel System Win\obj\Debug\S-Squared Entrprises Personnel System Win.pdb
